@@ -2,7 +2,7 @@ name: minerva_analysis
 channels:
   - conda-forge
 dependencies:
-  - Flask=1.1.2
+  - Flask=1.1.4
   - flask-sqlalchemy
   - nomkl
   - numpy
